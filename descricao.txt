@@ -1,0 +1,8 @@
+SEGUE A DESCRIÇÃO DAS FUNCIONALIDADES DAS TELAS
+
+
+1- A primeira tela, denomidnada "Tela_pag_inicial" é o nosso protótipo de logo, a qual vai ser responsável por servir como um identificador visual da empresa. Foi gerada por una IA com as características da empresa
+
+2- A segunda tela, é responsável por apresentar visualmente a identidade dos nossos produtos, os quais poderão mais tarde serem personalizados conforme a necessidade do cliente.
+
+3- A terceira tela é uma possível identificação física do estabelecimento, contando com dados de cadastro para acompanhar notícias diárias sobre promoções, pratos novos, etc.
